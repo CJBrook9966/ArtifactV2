@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-  "title": "Test Parameter Types",
+  "title": "TEST CB",
   "publisher": "Microsoft",
   "description": "Template to test supported artifact parameter types.",
   "tags": [
